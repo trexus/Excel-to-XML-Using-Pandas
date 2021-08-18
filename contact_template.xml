@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <Name>Peter</Name>
+    <Surname>Tsuro</Surname>
+    <E-mail>peter_rabbit@domain.co.zw</E-mail>
+    <Phone>775456125</Phone>
+  </row>
+  <row>
+    <Name>Janet</Name>
+    <Surname>Rutsva</Surname>
+    <E-mail>jannet@zim.com</E-mail>
+    <Phone>719456321</Phone>
+  </row>
+  <row>
+    <Name>Keith</Name>
+    <Surname>Jaravaza</Surname>
+    <E-mail>kj@jumbo.co.zw</E-mail>
+    <Phone>733315168</Phone>
+  </row>
+</data>
